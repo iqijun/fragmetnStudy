@@ -36,12 +36,16 @@
         <activity
             android:name=".NotificationAty"
             android:label="@string/title_activity_notification_aty"
-            android:theme="@style/AppTheme.NoActionBar"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"/>
+                android:value=".MainActivity" />
         </activity>
+        <activity
+            android:name="com.xinggs.viewStudy.ListViewAty"
+            android:label="@string/title_activity_list_view_aty"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

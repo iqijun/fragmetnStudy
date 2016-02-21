@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item>设计模式</item>
+        <item>程序员修养</item>
+        <item>从菜鸟到大神</item>
+        <item>java编程思想</item>
+    </string-array>
+    <string-array name="compants">
+        <item>listView</item>
+        <item>activity</item>
+        <item>service</item>
+        <item>boast</item>
+
+    </string-array>
+</resources>

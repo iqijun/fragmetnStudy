@@ -31,5 +31,9 @@
         android:layout_height="wrap_content"
         android:text="启动Tabledactivity"
         android:id="@+id/btnStartTabsActivity"/>
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="启动noticeactivity"
+        android:id="@+id/btnStartNoticeActivity"/>
 </LinearLayout>
