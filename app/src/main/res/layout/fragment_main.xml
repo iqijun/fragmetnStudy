@@ -36,4 +36,10 @@
         android:layout_height="wrap_content"
         android:text="启动noticeactivity"
         android:id="@+id/btnStartNoticeActivity"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="改变屏幕方向"
+        android:id="@+id/changeOrientiation"/>
 </LinearLayout>
