@@ -9,6 +9,7 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_frame_layout_aty">FrameLayoutAty</string>
     <string name="title_activity_notification_aty">NotificationAty</string>
-   
+
     <string name="title_activity_list_view_aty">ListViewAty</string>
+    <string name="title_activity_asynctask_download">asynctaskDownload</string>
 </resources>
