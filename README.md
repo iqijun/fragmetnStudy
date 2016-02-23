@@ -7,3 +7,6 @@ fragment 的创建使用
 tabled Activity
 
 notification的使用
+
+Configraton 学习  屏幕旋转
+#onConfigurationChanged不执行问题
